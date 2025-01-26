@@ -46,4 +46,4 @@ SOFTWARE.
 
 If you encounter any issues or have suggestions, please feel free to open an issue in this repository.
 
-Built with ❤️ by Kaiwen Guofor readers who prefer a clean, ad-free experience.
+Built with ❤️ by Kaiwen Guo for readers who prefer a clean, ad-free experience.
